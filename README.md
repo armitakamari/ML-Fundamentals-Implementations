@@ -17,5 +17,6 @@ Core Machine Learning algorithms implemented **from scratch** (NumPy) and benchm
 
 ## Setup
 ```bash
-git clone https://github.com/armitakamari/<repo-name>.git
+git clone https://github.com/armitakamari/ML-Fundamentals-Implementations.git
+cd ML-Fundamentals-Implementations
 pip install -r requirements.txt
